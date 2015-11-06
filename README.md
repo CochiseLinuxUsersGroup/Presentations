@@ -1,4 +1,5 @@
 # Presentations
 A place for past, present and future presentations
 
-1. Terminal for Beginners - paulbe
+1. Intro to Linux - majb
+2. Terminal for Beginners - paulbe
