@@ -18,4 +18,6 @@ A place for past, present and future presentations
 14.  Ubuntu - MajB
 15.  Xubuntu - MajB
 16.  MX Linux - Deoxizn
-17.  Pepermint - MajB
+17.  Peppermint - MajB
+18.  Email and Thunderbird - MajB
+
