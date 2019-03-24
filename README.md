@@ -20,4 +20,5 @@ A place for past, present and future presentations
 16.  MX Linux - Deoxizn
 17.  Peppermint - MajB
 18.  Email and Thunderbird - MajB
+19.  History of Unix, GNU, and Linux - mlynn3
 
