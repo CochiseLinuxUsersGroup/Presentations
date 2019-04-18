@@ -21,4 +21,4 @@ A place for past, present and future presentations
 17.  Peppermint - MajB
 18.  Email and Thunderbird - MajB
 19.  History of Unix, GNU, and Linux - mlynn3
-
+20.  Zero Trust Network - Thomas Jewkes
