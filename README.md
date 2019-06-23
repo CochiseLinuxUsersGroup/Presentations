@@ -22,3 +22,4 @@ A place for past, present and future presentations
 18.  Email and Thunderbird - MajB
 19.  History of Unix, GNU, and Linux - mlynn3
 20.  Zero Trust Networking - Thomas Jewkes
+21.  Why you should switch to a Linux Operating System - MajB
