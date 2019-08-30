@@ -25,3 +25,4 @@ A place for past, present and future presentations
 21.  Why you should switch to a Linux Operating System - MajB
 22.  GitHub - MajB
 23.  After Installation Activities (Ubuntu) - MajB
+24.  Introduction to Linux - MajB
