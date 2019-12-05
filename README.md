@@ -27,4 +27,5 @@ A place for past, present and future presentations
 23.  After Installation Activities (Ubuntu) - MajB
 24.  Introduction to Linux - MajB
 25.  Security Considerations encore - Maj B
+26.  Clonezilla and Cloning - Gene Zastera
 
