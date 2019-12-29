@@ -28,4 +28,5 @@ A place for past, present and future presentations
 24.  Introduction to Linux - MajB
 25.  Security Considerations encore - Maj B
 26.  Clonezilla and Cloning - Gene Zastera
+27.  The Genealogy of Linux Distributions - Maj B
 
