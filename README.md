@@ -26,7 +26,7 @@ A place for past, present and future presentations
 22.  GitHub - MajB
 23.  After Installation Activities (Ubuntu) - MajB
 24.  Introduction to Linux - MajB
-25.  Security Considerations encore - Maj B
+25.  Security Considerations encore - MajB
 26.  Clonezilla and Cloning - Gene Zastera
-27.  The Genealogy of Linux Distributions - Maj B
-
+27.  The Genealogy of Linux Distributions - MajB
+28.  What to do After a Ubuntu Installation - MajB
