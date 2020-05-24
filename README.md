@@ -30,3 +30,4 @@ A place for past, present and future presentations
 26.  Clonezilla and Cloning - Gene Zastera
 27.  The Genealogy of Linux Distributions - MajB
 28.  What to do After a Ubuntu Installation - MajB
+29.  How to Use GParted - MajB
