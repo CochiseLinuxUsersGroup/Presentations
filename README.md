@@ -31,3 +31,4 @@ A place for past, present and future presentations
 27.  The Genealogy of Linux Distributions - MajB
 28.  What to do After a Ubuntu Installation - MajB
 29.  How to Use GParted - MajB
+30.  How to Install Ubuntu defining the partitions Yourself - MajB
