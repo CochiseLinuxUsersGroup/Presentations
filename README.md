@@ -32,3 +32,4 @@ A place for past, present and future presentations
 28.  What to do After a Ubuntu Installation - MajB
 29.  How to Use GParted - MajB
 30.  How to Install Ubuntu defining the partitions Yourself - MajB
+31.  Computer Directories Revisited - MajB
