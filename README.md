@@ -33,3 +33,5 @@ A place for past, present and future presentations
 29.  How to Use GParted - MajB
 30.  How to Install Ubuntu defining the partitions Yourself - MajB
 31.  Computer Directories Revisited - MajB
+32.  VPN's - scrollturner
+33.  What to do if Ubuntu Won't Boot - MajB
