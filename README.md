@@ -16,7 +16,7 @@ A place for past, present and future presentations
 12.  Security Considerations - MajB
 13.  Computer Directories - MajB
 14.  Ubuntu - MajB
-15.  Xubuntu - MajB
+15.  Xubuntu - MajBited
 16.  MX Linux - Deoxizn
 17.  Peppermint - MajB
 18.  Email and Thunderbird - MajB
@@ -35,3 +35,5 @@ A place for past, present and future presentations
 31.  Computer Directories Revisited - MajB
 32.  VPN's - scrollturner
 33.  What to do if Ubuntu Won't Boot - MajB
+34.  How to Update Your Computer - MajB
+35.  Synaptic Package Manager - MajB
