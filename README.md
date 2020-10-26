@@ -37,3 +37,4 @@ A place for past, present and future presentations
 33.  What to do if Ubuntu Won't Boot - MajB
 34.  How to Update Your Computer - MajB
 35.  Synaptic Package Manager - MajB
+36.  How to Make A Bootable Flash Drive - MajB
