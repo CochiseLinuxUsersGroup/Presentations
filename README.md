@@ -39,3 +39,5 @@ A place for past, present and future presentations
 35.  Synaptic Package Manager - MajB
 36.  How to Make A Bootable Flash Drive - MajB
 37.  How to Install Ubuntu To A Flash Drive - MajB
+38.  Distro Test - MajB
+39.  Rescuezilla - MajB
