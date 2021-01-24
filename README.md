@@ -41,3 +41,4 @@ A place for past, present and future presentations
 37.  How to Install Ubuntu To A Flash Drive - MajB
 38.  Distro Test - MajB
 39.  Rescuezilla - MajB
+40.  Ventoy - MajB
