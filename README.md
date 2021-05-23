@@ -41,3 +41,4 @@ A place for past, present and future presentations
 37.  Distro Test - MajB
 38.  Rescuezilla - MajB
 39.  Ventoy - MajB
+40.  Thunderbird Redux - MajB
