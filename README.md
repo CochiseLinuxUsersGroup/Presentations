@@ -42,3 +42,4 @@ A place for past, present and future presentations
 38.  Rescuezilla - MajB
 39.  Ventoy - MajB
 40.  Thunderbird Redux - MajB
+41.  Introduction To The Terminal - MajB
