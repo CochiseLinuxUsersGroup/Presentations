@@ -43,3 +43,4 @@ A place for past, present and future presentations
 39.  Ventoy - MajB
 40.  Thunderbird Redux - MajB
 41.  Introduction To The Terminal - MajB
+42.  Introduction To The Terminal II - MajB
