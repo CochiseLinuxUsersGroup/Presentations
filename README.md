@@ -44,3 +44,4 @@ A place for past, present and future presentations
 40.  Thunderbird Redux - MajB
 41.  Introduction To The Terminal - MajB
 42.  Introduction To The Terminal II - MajB
+43.  Introduction To The Terminal III (Multiple Commands in the Terminal) - MajB
