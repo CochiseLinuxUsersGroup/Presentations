@@ -15,7 +15,7 @@ A place for past, present and future presentations
 11.  Security Considerations - MajB
 12.  Computer Directories - MajB
 13.  Ubuntu - MajB
-14.  Xubuntu - MajBited
+14.  Xubuntu - MajB
 15.  MX Linux - Deoxizn
 16.  Peppermint - MajB
 17.  Email and Thunderbird - MajB
