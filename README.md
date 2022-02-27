@@ -48,3 +48,4 @@ A place for past, present and future presentations
 44.  The Dreaded grub> Prompt - MajB
 45.  Security Considerations Encore - MajB
 46.  CLUG Trusted PPA's - MajB
+47.  TAR Backup - Teruel deCampo
