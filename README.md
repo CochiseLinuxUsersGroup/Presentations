@@ -50,4 +50,4 @@ A place for past, present and future presentations
 46.  CLUG Trusted PPA's - MajB
 47.  TAR Backup - Teruel deCampo
 48.  Progressive Web Apps - MajB
-49.  Progressive We Apps 2 - Teruel deCampo
+49.  Progressive Web Apps 2 - Teruel deCampo
