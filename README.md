@@ -49,4 +49,5 @@ A place for past, present and future presentations
 45.  Security Considerations Encore - MajB
 46.  CLUG Trusted PPA's - MajB
 47.  TAR Backup - Teruel deCampo
-48.  Progressive Web Apps by Teruel deCampo and Rex Bouwense
+48.  Progressive Web Apps - MajB
+49.  Progressive We Apps 2 - Teruel deCampo
