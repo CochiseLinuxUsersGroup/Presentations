@@ -51,3 +51,4 @@ A place for past, present and future presentations
 47.  TAR Backup - Teruel deCampo
 48.  Progressive Web Apps - MajB
 49.  Progressive Web Apps 2 - Teruel deCampo
+50.  CLUG - Network Evaluation Lab Infrastructure Review - hatenohama
