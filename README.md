@@ -53,3 +53,4 @@ A place for past, present and future presentations
 49.  Progressive Web Apps 2 - Teruel deCampo
 50.  CLUG - Network Evaluation Lab Infrastructure Review - hatenohama
 51.  How to Make a Bootable Flash Drive Using Balena Etcher - MajB
+52.  Cochise Linux Mailing List Redoux - MajB
