@@ -55,4 +55,4 @@ A place for past, present and future presentations
 51.  How to Make a Bootable Flash Drive Using Balena Etcher - MajB
 52.  Cochise Linux Mailing List Redoux - MajB
 53.  Desktop Environments - MajB
-54.  Digitizing Your DVD and Blue-ray Collection - Scroll Turner
+54.  Digitizing Your DVD and Blue-ray Collection - Scrollturner
