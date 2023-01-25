@@ -58,3 +58,4 @@ A place for past, present and future presentations
 54.  Digitizing Your DVD and Blue-ray Collection - Scrollturner
 55.  Network Attached Storage (NAS) - Scrollturner
 56.  Media Server - Scrollturner
+57.  Introduction To Shell Scripting - hatenohama
