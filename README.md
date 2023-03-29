@@ -61,3 +61,4 @@ A place for past, present and future presentations
 57.  Introduction To Shell Scripting - hatenohama
 58.  Cleaning Your Debian Based OS - MajB
 59.  Where To Get Support For Your Ubuntu OS - MajB
+60.  Copyright - Golfzulu1
