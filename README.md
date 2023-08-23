@@ -63,4 +63,5 @@ A place for past, present and future presentations
 59.  Where To Get Support For Your Ubuntu OS - MajB
 60.  Copyright - Golfzulu1
 61.  Sparky Linux - MajB
+62.  Fedora - MajB
 
