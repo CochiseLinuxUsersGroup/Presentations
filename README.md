@@ -66,5 +66,6 @@ A place for past, present and future presentations
 62.  Fedora - MajB
 63.  Voyager 12 - Firewater22
 64.  Zorin 16.3 - Scrollturner
-65.  Watt OS-12 -MajB
+65.  Watt OS-12 - MajB
+66.  Using LibreOffice Calc - MajB
 
