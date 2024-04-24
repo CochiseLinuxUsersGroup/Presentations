@@ -68,4 +68,5 @@ A place for past, present and future presentations
 64.  Zorin 16.3 - Scrollturner
 65.  Watt OS-12 - MajB
 66.  Using LibreOffice Calc - MajB
-67. EndeavourOS - Deoxizn
+67.  EndeavourOS - Deoxizn
+68.  Open SUSE - Teruel deCampo
