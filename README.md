@@ -70,3 +70,5 @@ A place for past, present and future presentations
 66.  Using LibreOffice Calc - MajB
 67.  EndeavourOS - Deoxizn
 68.  Open SUSE - Teruel deCampo
+69.  What's New in 24.04 - MajB
+70.  CasaOS - Deoxizn
