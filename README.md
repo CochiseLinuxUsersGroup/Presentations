@@ -72,3 +72,4 @@ A place for past, present and future presentations
 68.  Open SUSE - Teruel deCampo
 69.  What's New in 24.04 - MajB
 70.  CasaOS - Deoxizn
+71.  Using Synaptic Package manager - MajB
