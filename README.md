@@ -73,4 +73,4 @@ A place for past, present and future presentations
 69.  What's New in 24.04 - MajB
 70.  CasaOS - Deoxizn
 71.  Using Synaptic Package manager - MajB
-72.  How to reset your password in Ubuntu - MajB
+72.  How to change your admin password - MajB
