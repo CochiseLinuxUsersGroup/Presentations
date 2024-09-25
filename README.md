@@ -75,3 +75,4 @@ A place for past, present and future presentations
 71.  Using Synaptic Package manager - MajB
 72.  How to change your admin password - MajB
 73.  How to make GRUB menu appear automatically at boot - MajB
+74.  Desktop Environments (encore) - MajB
