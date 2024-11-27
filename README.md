@@ -77,3 +77,4 @@ A place for past, present and future presentations
 73.  How to make GRUB menu appear automatically at boot - MajB
 74.  Desktop Environments (encore) - MajB
 75.  Ventoy (encore) -MajB
+76.  How To Fix initramfs Error - MajB
