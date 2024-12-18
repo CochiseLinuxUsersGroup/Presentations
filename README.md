@@ -78,3 +78,4 @@ A place for past, present and future presentations
 74.  Desktop Environments (encore) - MajB
 75.  Ventoy (encore) -MajB
 76.  How To Fix initramfs Error - MajB
+77.  Ubuntu Updates - Doug Barth
