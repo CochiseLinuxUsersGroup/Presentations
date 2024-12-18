@@ -79,3 +79,5 @@ A place for past, present and future presentations
 75.  Ventoy (encore) -MajB
 76.  How To Fix initramfs Error - MajB
 77.  Ubuntu Updates - Doug Barth
+78.  Timeshare Updates - Doug Barth
+79.  Clonezilla Updates - Doug Barth
