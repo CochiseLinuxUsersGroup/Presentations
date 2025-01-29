@@ -81,4 +81,4 @@ A place for past, present and future presentations
 77.  Ubuntu Updates - Doug Barth
 78.  Timeshare Updates - Doug Barth
 79.  Clonezilla Updates - Doug Barth
-80.  Repairing GRUB - MajB
+80.  GRUB Repair - MajB
