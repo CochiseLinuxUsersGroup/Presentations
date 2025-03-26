@@ -83,3 +83,4 @@ A place for past, present and future presentations
 79.  Clonezilla Updates - Doug Barth
 80.  GRUB Repair - MajB
 81.  How to install a Linux OS to a Chromebook - Deoxizn and MajB
+82.  How to Install Ventoy to a Flash Drive - MajB
