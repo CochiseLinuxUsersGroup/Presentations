@@ -6,7 +6,7 @@ A place for past, present and future presentations
 	- http://tinyurl.com/TermBeginners
 03.  Git Primer - paulbe
 04.  Terminal for Beginners - paulbe
-05.  Gaming in Linux - zOmbiexx
+05.  Gaming in Linux - Devi Garcia
 06.  Thunderbird - MajB
 07.  How to activate your firewall - MajB
 08.  How to change your admin password - MajB
@@ -16,7 +16,7 @@ A place for past, present and future presentations
 12.  Computer Directories - MajB
 13.  Ubuntu - MajB
 14.  Xubuntu - MajB
-15.  MX Linux - Deoxizn
+15.  MX Linux - Devi Garcia
 16.  Peppermint - MajB
 17.  Email and Thunderbird - MajB
 18.  History of Unix, GNU, and Linux - mlynn3
@@ -68,10 +68,10 @@ A place for past, present and future presentations
 64.  Zorin 16.3 - Scrollturner
 65.  Watt OS-12 - MajB
 66.  Using LibreOffice Calc - MajB
-67.  EndeavourOS - Deoxizn
+67.  EndeavourOS - Devi Garcia
 68.  Open SUSE - Teruel deCampo
 69.  What's New in 24.04 - MajB
-70.  CasaOS - Deoxizn
+70.  CasaOS - Devi Garcia
 71.  Using Synaptic Package manager - MajB
 72.  How to change your admin password - MajB
 73.  How to make GRUB menu appear automatically at boot - MajB
