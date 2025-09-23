@@ -86,3 +86,4 @@ A place for past, present and future presentations
 82.  How to Install Ventoy to a Flash Drive - MajB
 83.  Cochise Linux User Group - MajB
 84.  How to check the sha256sum hash on a downloaded ISO-2 - MajB
+85.  Alias - Devi Garcia
