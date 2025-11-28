@@ -87,3 +87,4 @@ A place for past, present and future presentations
 83.  Cochise Linux User Group - MajB
 84.  How to check the sha256sum hash on a downloaded ISO-2 - MajB
 85.  Alias - Devi Garcia
+86.  Artificial Inteligence - George Self
