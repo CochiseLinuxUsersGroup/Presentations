@@ -88,3 +88,4 @@ A place for past, present and future presentations
 84.  How to check the sha256sum hash on a downloaded ISO-2 - MajB
 85.  Alias - Devi Garcia
 86.  AI For Linux Users - George Self
+87.  Ubuntu 26.04 - MajB
